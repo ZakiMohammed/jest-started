@@ -1,6 +1,10 @@
 # JEST Started
 
-Getting started with JEST unit test framework
+Getting started with JEST unit test framework.
+
+Check out the CodeOmelet blog post for this project.
+
+Link: https://codeomelet.com/posts/jest-started-with-unit-testing
 
 ## Initial Setup
 ```
