@@ -1,0 +1,32 @@
+{
+  "name": "jest-started",
+  "version": "1.0.0",
+  "description": "Getting started with JEST unit test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll",
+    "test-verbose": "jest --verbose",
+    "test-coverage": "jest --coverage",
+    "test-fat": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakiMohammed/jest-started.git"
+  },
+  "keywords": [
+    "JEST",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakiMohammed/jest-started/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammed/jest-started#readme",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.1"
+  }
+}
